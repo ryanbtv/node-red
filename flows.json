@@ -5,5 +5,21 @@
         "label": "Flow 1",
         "disabled": false,
         "info": ""
+    },
+    {
+        "id": "7376950764367ae8",
+        "type": "debug",
+        "z": "f6f2187d.f17ca8",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 260,
+        "y": 200,
+        "wires": []
     }
 ]
